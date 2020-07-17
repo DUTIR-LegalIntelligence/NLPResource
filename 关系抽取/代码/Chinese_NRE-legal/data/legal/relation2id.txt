@@ -1,0 +1,5 @@
+posess	0
+provide_shelter_for	1
+sell_drugs_to	2
+traffic_in	3
+NA	4

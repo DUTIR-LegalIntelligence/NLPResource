@@ -1,0 +1,1 @@
+论文Effective Modeling of Encoder-Decoder Architecture for Joint Entity and Relation Extraction的源码，使用数据集为NYT数据集。可其源码网站https://github.com/nusnlp/PtrNetDecoding4JERE上进行下载。
